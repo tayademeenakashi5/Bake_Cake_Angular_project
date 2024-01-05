@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Berries Summer Cupcakes",
+      "category": "Cupcake",
+      "description": "Deliciously moist and fluffy vanilla cupcakes stuffed with summer berries and topped with a sweet buttercream frosting!",
+      "imageUrl": "Berries Summer Cupcakes.jpg",
+      "price": 75,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Brownies Different Flavor",
+      "category": "Brownie",
+      "description": "Indulge in a variety of brownies with different flavors, a perfect treat for brownie enthusiasts!",
+      "imageUrl": "Brownies Different Flavor.jpg",
+      "price": 150,
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "name": "Butter Cookies",
+      "category": "Cookie",
+      "description": "Deliciously buttery cookies that melt in your mouth, a classic favorite for cookie lovers!",
+      "imageUrl": "Butter Cookies.jpg",
+      "price": 200,
+      "rating": 4.4
+    },
+    {
+      "id": 4,
+      "name": "Cherry Jelly Cheesecake",
+      "category": "Cheesecake",
+      "description": "Creamy cheesecake with a burst of cherry jelly, a delightful combination for cheesecake connoisseurs!",
+      "imageUrl": "Cherry Jelly Cheesecake.jpg",
+      "price": 250,
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Blueberries Cake",
+      "category": "Cake",
+      "description": "A decadent chocolate cake infused with the sweetness of blueberries, a heavenly treat for chocolate lovers!",
+      "imageUrl": "Chocolate Blueberries Cake.jpg",
+      "price": 355,
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Bonbons",
+      "category": "Chocolate",
+      "description": "Indulge in the rich and luxurious taste of chocolate bonbons, a perfect bite-sized delight!",
+      "imageUrl": "Chocolate Bonbons.jpg",
+      "price": 120,
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Cookies",
+      "category": "Cookie",
+      "description": "Classic chocolate cookies that satisfy your chocolate cravings with every bite!",
+      "imageUrl": "Chocolate Cookies.jpg",
+      "price": 115,
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Cupcake",
+      "category": "Cupcake",
+      "description": "Irresistibly moist and chocolatey cupcakes that are a true delight for chocolate lovers!",
+      "imageUrl": "Chocolate Cupcake.jpg",
+      "price": 50,
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "name": "Chocolate Summer Berries",
+      "category": "Chocolate",
+      "description": "A fusion of chocolate goodness with the freshness of summer berries, a delightful combination!",
+      "imageUrl": "Chocolate Summer Berries.jpg",
+      "price": 155,
+      "rating": 4.7
+    },
+    {
+      "id": 10,
+      "name": "Classic Cheesecake",
+      "category": "Cheesecake",
+      "description": "The timeless classic cheesecake with a velvety smooth texture, a must-try for cheesecake enthusiasts!",
+      "imageUrl": "Classic Cheesecake.jpg",
+      "price": 280,
+      "rating": 4.8
+    },
+    {
+      "id": 11,
+      "name": "Cookies Cream Cake",
+      "category": "Cake",
+      "description": "A heavenly cake combining the goodness of cookies and cream, a treat for cake lovers!",
+      "imageUrl": "Cookies Cream Cake.jpg",
+      "price": 300,
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "name": "Easter Cupcakes",
+      "category": "Cupcake",
+      "description": "Celebrate Easter with these delightful cupcakes, perfect for the joyous occasion!",
+      "imageUrl": "Easter Cupcakes.jpg",
+      "price": 95,
+      "rating": 4.4
+    },
+    {
+      "id": 13,
+      "name": "Fruit Cake",
+      "category": "Cake",
+      "description": "A fruity and moist cake filled with a variety of delicious fruits, a delightful treat for any occasion!",
+      "imageUrl": "Fruit Cake.jpg",
+      "price": 170,
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "name": "Isometric Chocolate Brownies",
+      "category": "Brownie",
+      "description": "Unique and visually appealing chocolate brownies with an isometric twist, a treat for both the eyes and taste buds!",
+      "imageUrl": "Isometric Chocolate Brownies.jpg",
+      "price": 115,
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "name": "Monster Theme Cake",
+      "category": "Cake",
+      "description": "A fun and whimsical cake with a monster theme, perfect for celebrating special occasions with a touch of playfulness!",
+      "imageUrl": "Monster Theme Cake.jpg",
+      "price": 500,
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "name": "Muffin Devil Horns",
+      "category": "Muffin",
+      "description": "Deliciously devilish muffins with a hint of spice, a perfect treat for those who enjoy a bit of mischief!",
+      "imageUrl": "Muffin Devil Horns.jpg",
+      "price": 85,
+      "rating": 4.5
+    },
+    {
+      "id": 17,
+      "name": "Muffin Ghost",
+      "category": "Muffin",
+      "description": "Adorably spooky muffins with a ghostly twist, a fun and tasty choice for Halloween or themed parties!",
+      "imageUrl": "Muffin Ghost.jpg",
+      "price": 70,
+      "rating": 4.4
+    },
+    {
+      "id": 18,
+      "name": "Pumpkin Spice Cupcakes",
+      "category": "Cupcake",
+      "description": "Embrace the flavors of fall with these pumpkin spice cupcakes, a seasonal delight for pumpkin enthusiasts!",
+      "imageUrl": "Pumpkin Spice Cupcakes.jpg",
+      "price": 400,
+      "rating": 4.6
+    }
+  ],
+  "ordersList": [
+    {
+      "id": 1,
+      "customerName": "viraj",
+      "customerEmail": "viraj@gmail.com",
+      "itemName": "Cherry Jelly Cheesecake",
+      "orderQuantity": 2,
+      "orderDate": "12-03-2023",
+      "totalBill": 260,
+      "contactNumber": 7418529635,
+      "customerAddress": {
+        "houseNumber": 10,
+        "streetName": "6th street",
+        "city": "alpha",
+        "state": "up"
+      }
+    },
+    {
+      "customerName": "Meenakshi Tayade",
+      "customerEmail": "mee@gmail.com",
+      "itemName": "Brownies Different Flavor",
+      "orderQuantity": 2,
+      "orderDate": "2023-11-17T14:31:47.421Z",
+      "totalBill": 220,
+      "contactNumber": "4596857635",
+      "customerAddress": {
+        "houseNumber": "17",
+        "streetName": "6th street",
+        "city": "delhi",
+        "state": "up"
+      },
+      "id": 2
+    },
+    {
+      "customerName": "jaya",
+      "customerEmail": "jaya@gmail.com",
+      "itemName": "Cherry Jelly Cheesecake",
+      "orderQuantity": 2,
+      "orderDate": "2023-11-18T06:17:47.817Z",
+      "totalBill": 260,
+      "contactNumber": "9638527415",
+      "customerAddress": {
+        "houseNumber": "15",
+        "streetName": "1st Street",
+        "city": "Ranchi",
+        "state": "Jharkhand"
+      },
+      "id": 3
+    },
+    {
+      "customerName": "saurab",
+      "customerEmail": "saurab@gmail.com",
+      "itemName": "Butter Cookies",
+      "orderQuantity": 2,
+      "orderDate": "2023-12-04T18:30:00.000Z",
+      "totalBill": 400,
+      "contactNumber": "7485961236",
+      "customerAddress": {
+        "city": "pune",
+        "state": "Maharashtra"
+      },
+      "id": 7
+    },
+    {
+      "customerName": "kkk",
+      "customerEmail": "kkbhghg@gmail.com",
+      "itemName": "Monster Theme Cake",
+      "orderQuantity": 1,
+      "orderDate": "2023-12-06T09:57:44.388Z",
+      "totalBill": 500,
+      "contactNumber": "7485123685",
+      "customerAddress": {
+        "city": "Pune",
+        "state": "Maharashtra"
+      },
+      "id": 3
+    }
+  ]
+}
