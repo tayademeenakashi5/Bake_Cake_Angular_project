@@ -30,6 +30,8 @@ The landing view must also allow users to search / filter these items by their p
 Search allows user to search by item name.
 Filtering allows user to filter items by category.
 
+![image](https://github.com/tayademeenakashi5/Bake_Cake_Angular_project/assets/85633773/89c424d4-1da0-4f4f-b6d9-c0425be39f69)
+
 
 
 
