@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  height: 55vh;
+}
+
+h1 {
+  font-size: 4em;
+  color: #d9534f;
+  margin-bottom: 1.5rem;
+  font-family: cursive;
+}
+
+p {
+  font-size: 1.2em;
+  color: #777;
+  margin-bottom: 2rem;
+}
+
+button {
+  width: 13rem;
+  height: 4rem;
+  border: none;
+  outline: none;
+  color: #fff;
+  background: #111;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: large;
+}

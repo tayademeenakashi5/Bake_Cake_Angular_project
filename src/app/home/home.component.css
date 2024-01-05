@@ -1,0 +1,18 @@
+.container {
+  max-width: 90%;
+  margin: 3rem auto;
+  background-image: linear-gradient(to right,  #9796f0, #a2f0f3);
+}
+
+#item-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.item-card {
+  max-width: 23%;
+  max-height: 10%;
+  margin: 0.5rem 0.5rem;
+}
+

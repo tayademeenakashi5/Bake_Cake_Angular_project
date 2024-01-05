@@ -1,0 +1,12 @@
+.outer-container {
+  height: 60vh;
+}
+
+.container {
+  max-width: 85%;
+  margin: 2rem auto;
+}
+
+th {
+  font-size: larger;
+}

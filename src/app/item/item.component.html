@@ -1,0 +1,23 @@
+<a routerLink="/item/{{ item.id }}">
+  <mat-card class="item-card">
+    <img class="image" mat-card-image src="../../assets/{{ item.imageUrl }}" />
+    <mat-card-header>
+      <mat-card-title class="item-title">{{ item.name }} </mat-card-title>
+      <mat-card-subtitle>{{ item.category }}</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      <!-- <p class="item-details">{{item.details}}</p> -->
+      <div>
+        <p>{{ item.description }}</p>
+      </div>
+      <div>
+        <p>
+          Price <span class="price">&#8377;{{ item.price }}</span>
+        </p>
+        <p>
+          Rating <span class="rating">{{ item.rating }} </span>
+        </p>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</a>

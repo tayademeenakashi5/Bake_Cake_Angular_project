@@ -1,0 +1,39 @@
+.item-card {
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  border-radius: 1rem;
+  background-image: linear-gradient(to right,  #9796f0, #f3a2b7);
+}
+
+.item-card:hover {
+  transform: scale(1.05); /* Increase the scale of the card on hover */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+  border-color: #333; /* Change border color */
+}
+
+.image {
+  height: 20rem;
+  transition: transform 0.3s ease;
+}
+
+.item-card:hover .image {
+  transform: scale(1.05);
+}
+
+.price,
+.rating {
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(22, 21, 21);
+}
+
+.cart-icon {
+  width: 3rem;
+  height: 2.5rem;
+  font-size: xx-large;
+  color: white;
+  margin-left: 1rem;
+}

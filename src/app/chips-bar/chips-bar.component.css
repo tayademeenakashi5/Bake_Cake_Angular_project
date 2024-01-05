@@ -1,0 +1,17 @@
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin-left: 1rem;
+  color: aqua;
+  background-image: linear-gradient(to right,  #9796f0, #f3a2b7);
+}
+
+.mat-chip-selected {
+  background-color: #007bff;
+    
+}

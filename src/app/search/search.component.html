@@ -1,0 +1,15 @@
+<form class="search" [formGroup]="searchForm">
+    <mat-form-field appearance="fill" class="search-box">
+      <mat-label>Search item</mat-label>
+      <input matInput class="search-input" type="text" formControlName="searchText" />
+    </mat-form-field>
+    <button
+      mat-icon-button
+      class="example-icon"
+      aria-label="Example icon-button with search icon"
+      (click)="searchNote()"
+      type="button"
+    >
+      <mat-icon>search</mat-icon>
+    </button>
+  </form>

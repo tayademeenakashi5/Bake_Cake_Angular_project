@@ -1,0 +1,20 @@
+<div class="container">
+  <div class="login-form">
+    <div class="text">LOGIN</div>
+    <form>
+      <div class="field">
+        <div class="fa fa-envelope"></div>
+        <input type="text" name="loginId" placeholder="Login-Id" [(ngModel)]="loginId" />
+      </div>
+      <div class="field">
+        <div class="fa fa-lock"></div>
+        <input type="password" name="password" placeholder="Password" [(ngModel)]="password"/>
+      </div>
+      <button (click)="validateAdmin()">LOGIN</button>
+      <div class="link">
+        Not a member?
+        <a routerLink="/">Signup now</a>
+      </div>
+    </form>
+  </div>
+</div>

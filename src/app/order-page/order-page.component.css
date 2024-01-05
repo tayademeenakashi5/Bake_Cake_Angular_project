@@ -1,0 +1,59 @@
+.container {
+  display: flex;
+  max-width: 90%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.left-container {
+  max-width: 45%;
+  margin: 1.5rem;
+}
+
+.item-card {
+  border-radius: 1rem;
+}
+
+.image {
+  height: 35rem;
+}
+
+.price,
+.rating {
+  font-weight: 700;
+}
+
+.right-container {
+  max-width: 55%;
+  padding-left: 15rem;
+  padding-top: 5rem;
+}
+
+.cName,
+.email,
+.contact,
+.order-btn {
+  width: 30rem;
+}
+
+.qty {
+  margin-right: 1.2rem;
+}
+
+.SocityName,
+.city {
+  margin-right: 3rem;
+}
+
+@media screen and (max-width: 1550px) {
+  .right-container {
+    padding-left: 3rem;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .left-container,
+  .right-container {
+    max-width: 100%;
+  }
+}

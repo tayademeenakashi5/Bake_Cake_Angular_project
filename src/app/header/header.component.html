@@ -1,0 +1,32 @@
+<div class="heading">
+  <mat-toolbar class="toolbar" color="primary">
+    <a routerLink="" class="nav">
+      <div class="nav-brand">
+        <span class="para1">{{ navBrand }}</span>
+      </div>
+    </a>
+
+    <span class="example-spacer"></span>
+    <div class="nav-links">
+      <a routerLink="/home" class="home-icon">
+        <button
+          mat-icon-button
+          class="example-icon favorite-icon"
+          aria-label="Example icon-button with home icon"
+        >
+          <mat-icon>home</mat-icon>
+        </button>
+      </a>
+      <a routerLink="/login" class="add-person">
+        <button
+          mat-icon-button
+          class="example-icon"
+          aria-label="Example icon-button with settings icon"
+          (click)="openLoginForm()"
+        >
+          <mat-icon>person_add</mat-icon>
+        </button>
+      </a>
+    </div>
+  </mat-toolbar>
+</div>

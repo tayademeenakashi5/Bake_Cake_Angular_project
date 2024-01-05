@@ -1,0 +1,19 @@
+<app-search (searchResult)="receiveSearchResults($event)"></app-search>
+
+<app-chips-bar
+  [uniqueCategories]="uniqueCategories"
+  (categoryClicked)="filterByCategory($event)"
+  (clearFiltersClicked)="clearFilters()"
+></app-chips-bar>
+
+<div class="container">
+  <div id="item-cards">
+    <app-item
+      class="item-card"
+      *ngFor="let item of items"
+      [item]="item"
+      (itemSelected)="selectItem($event)"
+    >
+    </app-item>
+  </div>
+</div>

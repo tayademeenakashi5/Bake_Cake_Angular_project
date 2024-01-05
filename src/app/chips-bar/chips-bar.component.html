@@ -1,0 +1,18 @@
+<div class="container">
+  <mat-chip-set role="list" class="chip-list">
+    <mat-chip 
+      *ngFor="let category of uniqueCategories"
+      (click)="filterByCategory(category)"
+    >
+      {{ category }}
+    </mat-chip>
+    <button
+      mat-raised-button
+      color="primary"
+      class="btn"
+      (click)="clearFilters()"
+    >
+      Clear
+    </button>
+  </mat-chip-set>
+</div>
