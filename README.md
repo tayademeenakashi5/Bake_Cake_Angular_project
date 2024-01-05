@@ -45,6 +45,8 @@ The details should include the item details as well as the customer details.
 
 
 The app will request confirmation from the user to leave the view, if the user attempts to navigate away from this view without submitting the request.
+![image](https://github.com/tayademeenakashi5/Bake_Cake_Angular_project/assets/85633773/98db42f6-53c7-46a8-9f4b-a354e7977b83)
+
 
 
 Task 3 – Design Login View
@@ -52,12 +54,15 @@ Task 3 – Design Login View
 The user should be navigated to the login view if he attempts navigation to the cart-requests view.
 The view should request the user to enter the security code to login as Administrator.
 Upon successful validation, the user should be navigated to the cake-requests view.
+![image](https://github.com/tayademeenakashi5/Bake_Cake_Angular_project/assets/85633773/e2d940cc-9cb8-4e93-b7a6-24dcef579ab2)
+
 
 
 Task 4 – Design Cake-Requests View
 
 This view will display all the cake order requests received in tabular format.
 This view has restricted access and is accessible only to the site administrator.
+![image](https://github.com/tayademeenakashi5/Bake_Cake_Angular_project/assets/85633773/2880fcb6-4d64-440d-ac2d-6e714c616cf2)
 
 
 Instructions for the Project
